@@ -1,0 +1,66 @@
+S.NO,Process Name,Operator,LogSheet No.
+1,Sieving of Powders,Ramu,LI-PRD-RC-29-001
+2,Sieving of Powders,Ramu,LI-PRD-RC-29-002
+3,Sieving of Powders,Ramu,LI-PRD-RC-29-003
+4,Sieving of Powders,Ramu,LI-PRD-RC-29-004
+5,Sieving of Powders,Ramu,LI-PRD-RC-29-005
+6,Sieving of Powders,Ramu,LI-PRD-RC-29-006
+7,Sieving of Powders,Ramu,LI-PRD-RC-29-007
+8,Sieving of Powders,Ramu,LI-PRD-RC-29-008
+9,Sieving of Powders,Ramu,LI-PRD-RC-29-009
+10,Leaching of FeS2,Ramu,LI-PRD-RC-18-001
+11,Drying of Components,Ramu,LI-PRD-RC-01C-001
+12,Mixing of Components (Dry),D.P. Naidu,LI-PRD-RC-06-001
+13,Powder Weighing ,x,LI-PRD-RC-35-001
+14,Pellet Manufacturing,"Ramu, Rama Rao",LI-PRD-RC-28-001
+15,Drying of Components,Rama Rao,LI-PRD-RC-01C-002
+16,Mixing of Components (Dry),Naidu,LI-PRD-RC-06-001
+17,Powder Weighing ,x,LI-PRD-RC-35-001
+18,Pellet Manufacturing,"Naidu, Ramarao",LI-PRD-RC-28-001
+19,Calcination of Components,K. Lakshmi,LI-PRD-RC-21-001
+20,Calcination of Components,K. Lakshmi,LI-PRD-RC-21-002
+21,Calcination of Components,K. Lakshmi,LI-PRD-RC-21-003
+22,Drying of Components,K. Lakshmi,LI-PRD-RC-01-001
+23,Preparation of EU ,K. Lakshmi,LI-PRD-RC-22-001
+24,Drying of Components,K. Lakshmi,LI-PRD-RC-01E-001
+25,Preparation of Electrolyte Binder,K. Lakshmi,"LI-PRD-RC-30-001
+LI-PRD-RC-30-002"
+26,Drying of Components,K. Lakshmi,LI-PRD-RC-01E-
+27,Drying of Components,K. Lakshmi,LI-PRD-RC-01-002
+28,Powder Weighing ,x,LI-PRD-RC-35-001
+29,Pellet Manufacturing,"Anuradha, K. Lakshmi",LI-PRD-RC-28-001
+30,Drying of Components,Y. Anuradha,LI-PRD-RC-01E-003
+31,Drying of Components,"D.P. Naidu, Ramu",LI-PRD-RC-01H-001
+32,Drying of Components,"D.P. Naidu, Ramu",LI-PRD-RC-01H-002
+33,Mixing of Components (Dry),D.P. Naidu,LI-PRD-RC-06-001
+34,Mixing of Components (Dry),D.P. Naidu,LI-PRD-RC-06-002
+35,Powder Weighing ,x,LI-PRD-RC-35-001
+36,Powder Weighing ,x,LI-PRD-RC-35-002
+37,Powder Weighing ,x,LI-PRD-RC-35-003
+38,Pellet Manufacturing,"K. Lakshmi Kumari, D.P. Naidu",LI-PRD-RC-28H-001
+39,Pellet Manufacturing,"K. Lakshmi Kumari, D.P. Naidu",LI-PRD-RC-28H-002
+40,Pellet Manufacturing,"K. Lakshmi Kumari, D.P. Naidu",LI-PRD-RC-28H-003
+41,Drying of Components,D.P. Naidu,LI-PRD-RC-01H-003
+42,Drying of Components,D.P. Naidu,LI-PRD-RC-01H-004
+43,Drying of Components,D.P. Naidu,LI-PRD-RC-01H-005
+44,Degreasing of Components,K. Lakshmi Kumari,LI-PRD-RC-12-001
+45,Drying,K. Lakshmi Kumari,LI-PRD-RC-01-001
+46,Tinning of Lids,xv,LI-PRD-RC-11-001
+47,Degreasing of Components,K. Lakshmi Kumari,LI-PRD-RC-12-002
+48,Drying,K.Lakshmi Kumari,LI-PRD-RC-01M-001
+49,Tinning/soldering of Lids,xv,LI-PRD-RC-11-001
+50,Tie wire spot welding,Chandar Raju,LI-PRD-RC-32-001
+51,Lid Assembly,Chandar Raju,LI-PRD-RC-33-001
+52,Lid Assembly,Chandar Raju,LI-PRD-RC-33-001
+53,Drying of Assembled Lids,Chandar Raju,LI-PRD-RC-01-001
+54,"Pellets Weighing( Cathode,Anode, Electrolyte, Heat Pellet,SS Disc), Cell Assembly, Stack Assembly","K. Lakshmi Kumari, 
+D. Krishnaji",LI-PRD-RC-13-001
+55,Spot welding of Terminals to Leads,D. Anil,LI-PRD-RC-32-001
+56,Stack Insulation Wrap,D. Anil,
+57,Stack Vacuum Drying,D. Anil,LI-PRD-RC-01-001
+58,Degreasing of Container,K. Lakshmi Kumari,LI-PRD-RC-12-003
+59,Drying of Containers,K. Lakshmi Kumari,LI-PRD-RC-01M-002
+60,Assembly of Containers,Afroz,LI-PRD-RC-34-001
+61,Drying of Assembled Container,Afroz,LI-PRD-RC-01-001
+62,Placing Stack in Container,D. Anil,LI-PRD-RC-34-001
+63,Tacking & Welding of container and Stack,D. Anil,LI-PRD-RC-09-001
